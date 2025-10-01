@@ -1,0 +1,1 @@
+This is a photography website of a list of favorite photos. The goal is to practice CSS and HTMl.
